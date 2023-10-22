@@ -1,0 +1,17 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-content {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.logo {
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.2);
+}
